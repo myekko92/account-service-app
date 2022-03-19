@@ -199,7 +199,7 @@ func HistoryTransfer() {
 		}
 
 		if len(user.TransferKe) <= 0 {
-			fmt.Println("Tidak ada riwayat transaksi")
+			fmt.Println("Tidak ada riwayat transaksi saat ini")
 		}
 	}
 }
